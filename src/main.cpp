@@ -2,8 +2,8 @@
 // Name        : CSCI261: Final Project - Text Recognition
 // Author      : Jake Billings
 // Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Copyright   : Copyright Jake Billings 2015-2017
+// Description : Text recognition using matrix comparison in SFML
 //============================================================================
 
 #include <iostream>
