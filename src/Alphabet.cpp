@@ -1,6 +1,5 @@
 #include "Alphabet.h"
 #include "matrix.h"
-#include <iostream>
 #include <fstream>
 
 void Alphabet::loadFromFiles(string imagePath, string textPath) {
