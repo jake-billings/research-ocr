@@ -1,4 +1,7 @@
 # research-ocr
+
+[![DOI](https://zenodo.org/badge/95834998.svg)](https://zenodo.org/badge/latestdoi/95834998)
+
 Originally completed as a final project for CSCI261 via correspondence at Colorado School of Mines, this repository contains a C++ implementation of a simple OCR algorithm based on matrix comparison.
 
 ![screenshot](imgs/screenshot.png)
